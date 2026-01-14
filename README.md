@@ -19,7 +19,8 @@ Methodologies
    - Wrote a Python script to calculate the minimum distance from each mine to the nearest `1:10m` provincial boundary.
 3. Cartography: Produced a high-resolution hillshade map in QGIS with contour lines to highlight the high-altitude characteristics of emerald deposits.
 
-Files
-[emerald_analysis.py](emeral%20danalysis.py) : Python script for distance calculation.
+PS. Files
+
+[emerald analysis.py](emeral%20danalysis.py) : Python script for distance calculation.
 [final emerald (10m).csv](final%20emerald%20(10m).csv) : The processed dataset with distance results.
 [Final Map-Emerald.jpg](Final%20Map-Emerald.jpg) : The final visualization output.
