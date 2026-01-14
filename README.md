@@ -1,7 +1,7 @@
 # Global-Emerald-Spatial-Analysis
 Spatial Distribution Analysis of Global Beryl Deposits Using Python and QGIS
 
-Global Emerald Spatial Analysis 🌍💎
+Global Emerald Spatial Analysis
 
 Project Overview
 This project analyzes the spatial distribution of major global emerald deposits (e.g., Muzo, Panjshir) and their proximity to administrative and tectonic boundaries. 
