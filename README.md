@@ -5,7 +5,7 @@ Spatial Distribution Analysis of Global Beryl Deposits Using Python and QGIS
 -Project Overview
 
 This project analyzes the spatial distribution of major global emerald deposits (e.g. Muzo, Panjshir) and their proximity to administrative and tectonic boundaries.
-Using Python (GeoPandas) and QGIS, I calculated the geodesic distance from mining sites to provincial borders to investigate the relationship between mineralization zones and geological / administrative edges.
+Using Python (GeoPandas) and QGIS, I calculated the geodesic distance from mining sites to provincial borders to investigate the relationship between mineralization zones and geological, as well as administrative edges.
 
 -Visualization
 
