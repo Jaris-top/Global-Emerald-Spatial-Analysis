@@ -22,5 +22,7 @@ Methodologies
 PS. Files
 
 [emerald analysis.py](emerald%20analysis.py) : Python script for distance calculation.
+
 [final emerald (10m).csv](final%20emerald%20(10m).csv) : The processed dataset with distance results.
+
 [Final Map-Emerald.jpg](Final%20Map-Emerald.jpg) : The final visualization output.
